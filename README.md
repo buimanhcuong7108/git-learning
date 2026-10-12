@@ -19,3 +19,5 @@
 - `git commit -m`: Commit.
 - `git log`: View commit log (Có thể thêm thuộc tính --oneline)
 - `git push`: Push lên Remote Repo.
+
+## 2. Xung đột Merge
