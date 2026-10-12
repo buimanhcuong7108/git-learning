@@ -21,3 +21,5 @@
 - `git push`: Push lên Remote Repo.
 
 ## 2. Xung đột Merge
+
+## 3. File .gitignore
