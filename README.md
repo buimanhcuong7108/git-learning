@@ -16,5 +16,6 @@
   - `git rm --cached <file>`: Xoá file ở stage, giữ ở directory.
   - `git rm <file>`: Xoá file ở stage và directory.
   - `git rm -r <folder>`: Xoá folder và tất cả những thứ nằm trong nó.
-- `git commit -m`: Commit
+- `git commit -m`: Commit.
 - `git log`: View commit log (Có thể thêm thuộc tính --oneline)
+- `git push`: Push lên Remote Repo.
